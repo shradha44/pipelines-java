@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/shradhapawar492/MyFisrtPipelineProject/_apis/build/status/MyFisrtPipelineProject-Maven-CI?branchName=master)](https://dev.azure.com/shradhapawar492/MyFisrtPipelineProject/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
